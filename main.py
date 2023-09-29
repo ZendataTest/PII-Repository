@@ -1,4 +1,3 @@
-
 account = "example@gmail.com"
 password = "12345test"
 password1 = "P@ssw0rd123"
